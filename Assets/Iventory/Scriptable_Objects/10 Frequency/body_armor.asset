@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0859219187d76a843a4f35f74f2c94bb, type: 3}
+  m_Name: body_armor
+  m_EditorClassIdentifier: 
+  itemName: Body Armor
+  description: Body Armor
+  slotSize: {x: 2, y: 2}
+  image: {fileID: 21300000, guid: 6f53d9fc33ed50d4ba17c17b71e42800, type: 3}
+  background: {r: 0, g: 0.50980395, b: 0.9607843, a: 0.078431375}
+  prefab: {fileID: 2930924827365592563, guid: 65896f75e01006849b6574245ee62ea3, type: 3}
+  _type: 2
+  _slotType: 5
+  _frequency: 10
+  _guid: 5b068bce-ee85-4e56-a189-e5e2d4f5ea62
+  clothType: 4
+  health: 70
+  armor: 35

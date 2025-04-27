@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 962f885847fc96549bbecb0ffc9a8cae, type: 3}
+  m_Name: canned_pasta
+  m_EditorClassIdentifier: 
+  itemName: Canned Pasta
+  description: Canned Pasta
+  slotSize: {x: 1, y: 1}
+  image: {fileID: 21300000, guid: b694a00fb02cea442b4e6a5deec5b5ab, type: 3}
+  background: {r: 0.8666667, g: 0.84705883, b: 0, a: 0.078431375}
+  prefab: {fileID: 3043069014266226100, guid: df057a5acd2f59c41a9ba4d8ad9a8555, type: 3}
+  _type: 1
+  _slotType: 0
+  _frequency: 50
+  _guid: 5a3b98c5-b19e-413a-ba7d-02280cfd6413
+  foodType: 0
+  energyRestoration: 45
+  waterRestoration: -5

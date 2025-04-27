@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0859219187d76a843a4f35f74f2c94bb, type: 3}
+  m_Name: headwear
+  m_EditorClassIdentifier: 
+  itemName: Headwear
+  description: Headwear
+  slotSize: {x: 2, y: 2}
+  image: {fileID: 21300000, guid: bb8ef503d84aead44b604eeffaecd048, type: 3}
+  background: {r: 0, g: 0.50980395, b: 0.9607843, a: 0.078431375}
+  prefab: {fileID: 3300863717110940121, guid: 8037712d2bbfca04187c58d9684e578b, type: 3}
+  _type: 0
+  _slotType: 2
+  _frequency: 10
+  _guid: a8fe3042-f2ec-4238-8f3a-b79c506c8dba
+  clothType: 1
+  health: 30
+  armor: 20

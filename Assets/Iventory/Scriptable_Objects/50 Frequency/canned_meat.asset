@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 962f885847fc96549bbecb0ffc9a8cae, type: 3}
+  m_Name: canned_meat
+  m_EditorClassIdentifier: 
+  itemName: Canned Meat
+  description: Canned Meat
+  slotSize: {x: 1, y: 1}
+  image: {fileID: 21300000, guid: 972982ed513288a4ca810af379753612, type: 3}
+  background: {r: 0.8666667, g: 0.84705883, b: 0, a: 0.078431375}
+  prefab: {fileID: 612616480577475517, guid: 69bd72bed9e6a81418a370082e6dcee9, type: 3}
+  _type: 1
+  _slotType: 0
+  _frequency: 50
+  _guid: 0c2a68f0-fed5-41ea-bd33-fbcfd276deaa
+  foodType: 0
+  energyRestoration: 45
+  waterRestoration: -10

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d968556dd53f94e9b3f4530e1727ca, type: 3}
+  m_Name: key_c205
+  m_EditorClassIdentifier: 
+  itemName: Key C-205
+  description: Key C-205
+  slotSize: {x: 1, y: 1}
+  image: {fileID: 21300000, guid: 2328d006d65defa4581f78498e8f13f9, type: 3}
+  background: {r: 0.53333336, g: 0, b: 1, a: 0.078431375}
+  prefab: {fileID: 5344467453524511261, guid: 730745e15673b68418138a5e3d516969, type: 3}
+  _type: 6
+  _slotType: 0
+  _frequency: 5
+  _guid: c343f4be-a90a-4231-a772-40cd42abc036
+  isEventItem: 0

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d968556dd53f94e9b3f4530e1727ca, type: 3}
+  m_Name: flash_drive
+  m_EditorClassIdentifier: 
+  itemName: Flash Drive
+  description: 'Flash Drive with encrypted files
+
+'
+  slotSize: {x: 1, y: 1}
+  image: {fileID: 21300000, guid: ed669a3d6238d2147abfc32489f7b0eb, type: 3}
+  background: {r: 0.53333336, g: 0, b: 1, a: 0.078431375}
+  prefab: {fileID: 9012186817651152703, guid: 69aff8592ce77ab4dbe8fa3ade2f3150, type: 3}
+  _type: 6
+  _slotType: 0
+  _frequency: 5
+  _guid: 4e7b9693-37b8-4d64-ab16-b6d6e9c7a4ed
+  isEventItem: 0

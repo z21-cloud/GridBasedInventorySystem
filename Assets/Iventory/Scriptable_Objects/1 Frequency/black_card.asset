@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d968556dd53f94e9b3f4530e1727ca, type: 3}
+  m_Name: black_card
+  m_EditorClassIdentifier: 
+  itemName: Access Card - Black Area
+  description: Access card for high security facillity.
+  slotSize: {x: 1, y: 1}
+  image: {fileID: 21300000, guid: 9dcc6642a8930884f8bc650735d5e65f, type: 3}
+  background: {r: 0.67058825, g: 0, b: 0, a: 0.078431375}
+  prefab: {fileID: 1060524230745182383, guid: 1b6b439274212344ebd65f84e0d92939, type: 3}
+  _type: 6
+  _slotType: 0
+  _frequency: 1
+  _guid: 57891c3c-cc7a-42b9-b437-47f050874d89
+  isEventItem: 0

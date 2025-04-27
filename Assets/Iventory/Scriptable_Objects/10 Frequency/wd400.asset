@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63e6e24501fff4945822042558b6adff, type: 3}
+  m_Name: wd400
+  m_EditorClassIdentifier: 
+  itemName: 'WD400 '
+  description: WD400 7.62
+  slotSize: {x: 1, y: 5}
+  image: {fileID: 21300000, guid: 15ef9faa3963aca4e83ebbc4383873e6, type: 3}
+  background: {r: 0, g: 0, b: 0, a: 0}
+  prefab: {fileID: 9180627014652098377, guid: 0879b82a0e9480344a4e722cd96eb6f3, type: 3}
+  _type: 0
+  _slotType: 9
+  _frequency: 10
+  _guid: 3aec7331-48dd-428b-98a1-5158397d3ac6
+  weaponTYpe: 1
+  magazine: {fileID: 11400000, guid: 56da587b02ad19d4395900ef04cdcee8, type: 2}
+  effectiveRange: 1000

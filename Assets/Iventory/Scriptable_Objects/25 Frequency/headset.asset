@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0859219187d76a843a4f35f74f2c94bb, type: 3}
+  m_Name: headset
+  m_EditorClassIdentifier: 
+  itemName: Headset
+  description: Headset
+  slotSize: {x: 2, y: 2}
+  image: {fileID: 21300000, guid: 681ed18e1cacfe14db665d8d1451337f, type: 3}
+  background: {r: 0.23137255, g: 0.7176471, b: 0, a: 0.078431375}
+  prefab: {fileID: 3745032976839521327, guid: 0112e96d2f073354b9b95e7bc421ac11, type: 3}
+  _type: 2
+  _slotType: 1
+  _frequency: 25
+  _guid: 6454797a-d9bd-4b07-922b-4853550b1fe7
+  clothType: 0
+  health: 0
+  armor: 0

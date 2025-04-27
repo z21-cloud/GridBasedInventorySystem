@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 962f885847fc96549bbecb0ffc9a8cae, type: 3}
+  m_Name: water
+  m_EditorClassIdentifier: 
+  itemName: Water
+  description: A bottle of water
+  slotSize: {x: 1, y: 1}
+  image: {fileID: 21300000, guid: f97746b09db10244a8d1e01dc7381407, type: 3}
+  background: {r: 0.8666667, g: 0.84705883, b: 0, a: 0.078431375}
+  prefab: {fileID: 3556825745596810576, guid: fd3cea4038f6704478411df15ff7075c, type: 3}
+  _type: 1
+  _slotType: 0
+  _frequency: 50
+  _guid: 9af00eeb-2bb6-4e1c-958f-1fa0d2149f65
+  foodType: 1
+  energyRestoration: 0
+  waterRestoration: 45

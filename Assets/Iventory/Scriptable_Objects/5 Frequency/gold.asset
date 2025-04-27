@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d968556dd53f94e9b3f4530e1727ca, type: 3}
+  m_Name: gold
+  m_EditorClassIdentifier: 
+  itemName: Gold
+  description: 'Gold bar
+
+'
+  slotSize: {x: 1, y: 1}
+  image: {fileID: 21300000, guid: e4723b1b19314d542a5abc2769c75f6b, type: 3}
+  background: {r: 0.53333336, g: 0, b: 1, a: 0.078431375}
+  prefab: {fileID: 962567561156987025, guid: e6f1156b0c2cdab428f5393705e80439, type: 3}
+  _type: 6
+  _slotType: 0
+  _frequency: 5
+  _guid: 2aaa8211-a56d-45bc-885a-90a185a29cc6
+  isEventItem: 0

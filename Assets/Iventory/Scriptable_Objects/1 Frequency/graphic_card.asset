@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 08d968556dd53f94e9b3f4530e1727ca, type: 3}
+  m_Name: graphic_card
+  m_EditorClassIdentifier: 
+  itemName: Graphic Card
+  description: Graphic Card to mine ETH
+  slotSize: {x: 2, y: 2}
+  image: {fileID: 21300000, guid: d0999471dfe0e6c42839468a8c4d8a02, type: 3}
+  background: {r: 0.67058825, g: 0, b: 0, a: 0.078431375}
+  prefab: {fileID: 6060044213048621312, guid: eec28ef04f45ea14a8799fd2087f4965, type: 3}
+  _type: 6
+  _slotType: 0
+  _frequency: 1
+  _guid: 942aca52-d7d9-4c58-b5e4-2c04f6050ca8
+  isEventItem: 0
