@@ -8,4 +8,5 @@ I have finished working on the GRID-based inventory system today. In the next fe
 Day 1:
 And so, I started refactoring the code, aiming to make it more "correct" from an OOP/SOLID perspective, but I accidentally broke the entire architecture :D
 Therefore, I rolled back to the previous version and started the refactoring all over again.
->>>>>>> c3c8c0d (Initial commit)
+
+I re-created git repository, because I didn't use .gitignore and my project got too manu useless files. I Hope I upload all correctly now.
