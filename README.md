@@ -1,5 +1,6 @@
 # Grid-Based Inventory System (Tarkov-Like)
 
+Демонстрация - https://youtu.be/S4X_fWyKYg4
 Реализация классической сеточной системы инвентаря (аналог популярной механики в Escape From Tarkov) на движке Unity с упором на Data-Driven подход, расширяемость и оптимизацию логики хранения данных.
 
 ---
